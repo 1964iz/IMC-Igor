@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora de IMC",
+  "description": "Aplicação profissional para cálculo de Índice de Massa Corporal (IMC), classificação pela OMS, orientações personalizadas, persistência em banco de dados e impressão de relatório médico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
